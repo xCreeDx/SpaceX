@@ -1,4 +1,4 @@
-# SpaceX - My newest learning project
+# SpaceX - My first React project!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
